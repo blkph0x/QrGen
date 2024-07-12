@@ -43,7 +43,7 @@ def matrix_to_html(qr_matrix, url):
     
     html += f"""
             </div>
-            <p><a href="{url}" style="color: #0066cc; text-decoration: none;">{url}</a></p>
+            
         </div>
     </body>
     </html>
